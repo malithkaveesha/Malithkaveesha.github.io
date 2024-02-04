@@ -1,6 +1,6 @@
 ---
 desc: 
-    - Wassup kaveesha
-    - yo momma
+    - Wassup kavss
+    - ass kising
 ---
 
