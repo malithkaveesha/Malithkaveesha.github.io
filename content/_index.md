@@ -1,6 +1,13 @@
 ---
+list:
+   -ifas
+   -das
+tags:
+  - bunny
+  - nature
+  - work
 desc: 
-    - Wassup kaveesha
-    - yo momma
+    - Wassup kavss
+    - ass
 ---
 
