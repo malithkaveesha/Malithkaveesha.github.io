@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Malith Kaveesha Creative Portfolio
 
 ## Welcome to my creative world!
@@ -55,3 +56,12 @@ Check out my latest thoughts on design, creativity, and innovation on my [blog](
 ---
 
 Thank you for visiting my portfolio! I look forward to the opportunity to collaborate and bring creative ideas to life.
+=======
+---
+desc:
+  - Malith Kaveesha
+---
+
+
+
+>>>>>>> refs/remotes/origin/main
